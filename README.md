@@ -7,3 +7,4 @@ This is a repo that I created first time diving into Rollup.
 [ ] Integration with ESLint.
 [ ] Integration with Prettier.
 [ ] Integration with Babel.
+[ ] Use Rollup in a project.
